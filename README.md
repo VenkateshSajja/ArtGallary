@@ -1,11 +1,11 @@
 # ArtGallary
 Tech Stack
 Frontend 
-HTML5 , CSS3 , Java Script
+HTML5  , Java Script
 DataBase
-PostgreSQL , SQL Alchemy
+Sqlite3 ,
 Backend
-Flask , Python Web frame works
+MangoDB
 
 Google Docs Link
 https://docs.google.com/document/d/1rZl0wDoxCNNoT9eKOLc6l1Wf6zP1D07WkIJJicxb8qM/edit?usp=sharing
