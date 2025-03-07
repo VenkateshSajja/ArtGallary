@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+
+# Optional dependency directories
+jspm_packages/
+
+# Temporary files
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db         # Windows
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directory
+package-lock.json  # Use this only if you want to ignore it, but it's generally recommended to commit it
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
