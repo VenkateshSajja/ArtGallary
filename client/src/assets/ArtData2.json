@@ -1,0 +1,159 @@
+[
+    {
+        "CategoryName": "Oil Painting",
+        "name": "Lighthouse by the sea",
+        "img": "https://media-hosting.imagekit.io//fe07089f2f0b45bd/Lighthouse%20Oil%20Painting%2048x36%20inches.jpeg?Expires=1834496087&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Nbw22fL3FFyBZ7pmGUNJ-Q0AUwcp36H1NN5jBzvCaCDlNStVUv9y1c5vKSnGFP5CkZgd32~-RXjNI4WOTdIYu6kswkYexZI7Xk9r3b1CloaypemD9MaEgXMzxCPm8NOatJFFweK~9HwamJW7Bqeke5ojZU8GyhErIaujGHnH6Y9lPUf6-E0jSj1j3L1it6yDOFim~b0eq~U~QIMdzm~-rOWgqVGeM4Djm0zjgBVR8aIav3P4HIMybcYQQMMIHc8UYy5tHvKx75UjfPtB-0QBx-oxD9B1zEKUwda5crUKHQdmbx1hRTS5hQWVHiSkfiY-aQies-zSLOkiVbAlxK83LQ__",
+        "options": [
+            {
+                "A4": "300",
+                "A3": "400",
+                "A2": "500"
+
+            }
+        ],
+        "description": "A serene oil painting of a lighthouse standing tall against crashing waves, with a golden sunset in the background."
+    },
+    {
+        "CategoryName": "Oil Painting",
+        "name": "Starry Night Reader",
+        "img": "https://media-hosting.imagekit.io//42fdc3e81eb44412/Vincent%20Van%20Gogh%20Reading%20A%20Book%20In%20Sunflowers%20Field%20At%20Starry%20Night%20Time.jpeg?Expires=1834496075&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=SCL9HcWDu-78~W5Q0qcMvl728xjqRlC3se135BF1lgdpmQ2lUH-hNy-ihI~Uf1UA4a8jm15mrdWjtrL9Wyw-tadnM~HfrWQb~SDfca2XbMajXmBsx7JuYiZA~eGTZ4ym1qj1qjFJtVcR4rkbWE2o6B3cGo7~MosxTuNJYm9g2D4EahpxoMwHWJgnRngbUNHlvpfQFjx4YhBiOdoBdBSZRwCzwDMKQnR9QVeCJiNLRwVEQn91dnXAjPwie8nVnLAGS17rZ0gM9W08EnWXlOiaFqjtblcU0eg494Cwtu8DtGzZfpdFVW0tP7M-qs1kSXPhMHj5dHDnZmPkYMSL6RIcqA__",
+        "options": [
+            {
+                "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "An imaginative oil painting of a man reading in a sunflower field under a swirling, starry night sky, inspired by Van Gogh's iconic style."
+    },
+    {
+        "CategoryName": "Canvas Painting",
+        "name": "Whispers of the Butterfly",
+        "img": "https://media-hosting.imagekit.io//db8c2c497f864a96/download%20(4).jpeg?Expires=1834496061&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RFpNM72TI6TOIysduo5hpqTruvTcOrkXuQ55soMjm9-g1OeDcwhccKVJEgY2INj6IxUnu61ctQFi-S-m3omZo9mWKUNWli4SixtmjKzIHs--0t7yMO~WVkNY~i-tCNwOIHjU-BjG8Oxw~WPdoPP6B8JskppAs5Rh9Sy5Gd-U8MtVuieAHzX2qRzXkqYsRmifzuB4zcDvVwQSCQo5g-IaS-YU7oE1cCOxGC1~aJDnrWWr9tTv7rrsv7aMf2umf9J0kq0kCEisGb5edIyRGaqjAWmhKhIyuBbpyV~anuAXTyl7H1M8JJ21W1kenFKBuviTv4fKqAnBvKWWJFKkIoxJfQ__",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The painting symbolizes freedom and transformation, with contrasting colors that highlight the harmony between nature and human expression."
+    },
+    {
+        "CategoryName": "Canvas Painting",
+        "name": "Blooming Grace",
+        "img": "https://media-hosting.imagekit.io//847ee75b62be4c40/download%20(2).jpeg?Expires=1834496070&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JDVlf4fwblkn37BiBL9gapTNgO1g3EsAW4gwJH9H1gn3td2s6DneKw9x5CD~NHIG3e5-9DHV5YKF3WfK~hxR-V2la1pZ~BIlbpbmMmweyKJi4H5BU7WGYptC8jrSNRG3C1UP5jaJ7mSWwjoEIOVWDLeVK132VLcd7YvsQe1dScR7RK3Odi6uJ~SEqGvwRW-RObjFRW~MvtvEb7Svy27ytyaqmJ9LcRmPy6LBPV~6xE9fpUdVw1cQuKEHXPD0N9SCgX7hmB1ZZ~orfRiOZioRgPooHTBQ8omm~UKMwEI7hzFNnbDmLzXx3jTDVPksoDWhYlY4aDlpet~PFJkOizgTHw__",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The vibrant petals and lush blooms surround her, symbolizing growth, strength, and natural beauty."
+    },
+    {
+        "CategoryName": "Watercolor Painting",
+        "name": "Galloping Blossoms",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The gentle brushstrokes evoke a sense of freedom and grace, as the horse's power and elegance blend seamlessly with the softness of the flowers."
+    },
+    {
+        "CategoryName": "Canvas Painting",
+        "name": "Whiskers of Wonder",
+        "img": "https://media-hosting.imagekit.io//b39c9a03ed884478/Amazon_com_%20Fountor%20Paint%20by%20Numbers%20Kit%20for%20Adults%20Beginner,%20Sunflower%20Cat%20Adult%20Paint%20by%20Number%20Kits%20on%20Canvas%20Without%20Frame,%20Cat%20Sunflowers%20Oil%20Paint%20by%20Numbers%20for%20Home%20Decor%20Gift%2016%E2%80%9D%20W%20x%2020%E2%80%9DL.jpeg?Expires=1834497218&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bqgqyLWPl9J3AuoWua5M-v-wDI0rfYku4c~RcZ9Xwz4rI0LR44dfyy-VaYVNWDKiQ8FlITYqyfgjl7Qqgj8lHqlP0y~F4qeDBDXDy0-S8tdmoyiG8f7xjrBHZKMMRMb1pteNtld3oPq981N1RzW-yMp0cjJG6HO0~kFQJfkc9l5FokVYKgK226bv4OlBHIZ8m4tk9PY8ACfXXQGh9FUo5yF0pKyvLmhejpSqBtER030UubWepVnLriq7GGX-qIMCesAb0~bjv7dkzgarE-EPDc49cEC-7NJjM08fyudOtxarQ4E1uhIIJwR2TarjiRv7TxfZ4t0IUm9lsVU26l6QIQ__",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "With expressive eyes and soft fur details, the cat seems to gaze directly into the viewer's soul, evoking a sense of curiosity and warmth."
+    },
+    {
+        "CategoryName": "Canvas Painting",
+        "name": " Sunflower Soul",
+        "img": "https://media-hosting.imagekit.io//6d37a93847e64e5e/Ai%20Art%20by%20ThetaCursed%20(Pinterest).jpeg?Expires=1834497366&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fREnVFjSxMR3Yla0lJzQEluDej60qltYTSJVAI5-VmOR7ByHm2gpQv0LEIBhMC-C5UOIWODrGTI64gG9Ie8yMGpwJRXACZ3lH4~~UTfEMdXzXcIFcUbE3Av0Jm0t6uZXFXjOGfNtAig7XKQ2KyC3Hzj1ido0JFbyVJ2jhxeioFG7PwJU1ZzqfFkA-h3-IqsVri-MrYl2u5dzphx58i33wF4sr2zRXLCluOEBarjQZ7uTTsYr7vqRs9VQiTsmtK2x1btMXgyGlQFaqObpCl5JI7ZhhdxsaRrCQ89czBPwOQcvcmoSS~wVLu6htIMUvmASmc3VdIQAGDrteUhK43vmEQ__",
+        "options": [
+            {
+                "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The vibrant sunflower serves as a reminder of inner strength and natural beauty, bringing light and life to the canvas."
+    },
+    {
+        "CategoryName": "Oil Painting",
+        "name": " Waves of Adventure",
+        "img": "https://media-hosting.imagekit.io//1a1c2b789f524e52/Large%20Ship%20Painting%20Original%20Ocean%20Oil%20Painting%20Sailing%20Art%20Sail%20Boat%20Decor%20Peaceful%20Wall%20Art%20Seaside%20Decor%20Ship%20at%20Sea%20Sunset%20Painting%20-%20Etsy.jpeg?Expires=1834497492&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=w~Q1OvEgATfi2ZDYVVuPv5LoyfHKFmMOsIHJ4fav0f5yHYoax6vJ60NZfc4E~BBwD3XiiUZacAD8mq3lSL~gGj63nwVsoNuaik40-XZPDf8de9yiCcNA91sTYmQAG70apDn9Ac6qdxDRH12EbulRCwwT1mrGVFigQQvB9QriRUY-SOfYBmN8sUjT-snRZjOC0oJOEyYl7-XPKb6pJVlQFSAkpjdCxJlYtiBbDdGaIl-GR5YDeFjxkdbIQ6-2inqhRWRo2~ba7wrIPBTUFcIckc1vMe548ObIMZbhvm~dk7poCufRtlVsAEnMZBy4Aj-ZTCqILr4JSnC1M9HD8Cll6Q__",
+        "options": [
+            {
+              "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The dramatic play of light and shadow highlights the ship's journey, symbolizing exploration, resilience, and the endless quest for discovery."
+    },
+    {
+        "CategoryName": "Watercolor Painting",
+        "name": "Red Rose",
+        "img": "https://media-hosting.imagekit.io//bc7721fbae724160/70%20Crazy%203D%20Tattoos%20That%20Will%20Twist%20Your%20Mind.jpeg?Expires=1834499940&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=a3Qh9fn7fLmLYv~FFL2iPsKQqxjxed461yIrEC9MntVhuGv8LW2vMbmijjJetNWCUzq6p~oqjs18w5N12viotnAnD45NpubDMkgS0R~ES9pnWSYJ5Pcy7u9zkcALjQDzeWEVmU8vs33nqyo-mbRVscMuaVE09mW09NTxW1XslHCRMD0SG7VHPQ8VnQO~PexV5a1duRx0N0EBhb2vp3hg6QsfBD4VRMGKd5gTynd6QEtHMbaC8iPueQ3AorMka3MUBXbOhq0g7o0pKZyNct~42wDOVqm7yVWQVT8RMttGhR55qhvUvrkvWGL3wAEjZJCcZ8PhPw8ctYfGb6MXhKDkYg__",
+        "options": [
+            {
+              "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "A classic symbol of love and passion, the red rose is known for its vibrant red petals and captivating fragrance."
+    },
+    {
+        "CategoryName": "Oil Painting",
+        "name": "Pink sunset",
+        "img": "https://media-hosting.imagekit.io//af8fc6240c884162/Pink%20Sunset.jpeg?Expires=1834500143&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2OhKINrWaALCOoit8efHIASBuhtQVOci0juJtddnsIz7-n5mVKSFoUhkPKACrxk4pbBvNm~P8VvmuaN2-mVT59YpSQNFpx7g1TFtW2nF9-OnqvsL5cGg1ofMwkGAbg1QLfBuE4mY80Af6FMOBdP~E1l~-Yq8Qz0QlG3ZWH7AgpPMq8VcNlfmYwTgbyZP75-HlnUjQEqfx5svRTtsutzoXWfR5KqxM8NaVQImyGJ3THmOJY~BBsp6YcKTi3s-ZIX8rEp1DCYO9zEFONKIt74TxZ2FhliueFp~3fiO2d~ux9rc7WjexBTC8TCpJRMHAvhUg8Yx~LiuArMyLT96zyLaQA__",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "This serene and colorful moment evokes feelings of peace, warmth, and wonder."
+    },
+    {
+        "CategoryName": "Watercolor Painting",
+        "name": "Swift Majesty",
+        "img": "https://media-hosting.imagekit.io//bbe5959184884d8c/Premium%20Photo%20_%20Illustration%20Cheetah%20in%20watercolor%20Animal%20on%20a%20white%20background%20generative%20AI.jpeg?Expires=1834497060&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=GMbXtWJUkVvaNP8O8yTQNrv52HtgOKViAXigr16VycjOcVmRz3hYSz~-bzIYXD1AgrNQzl6ILPv5izWP7fYqKgi5pDlQzkmqtV32NNkJfDSC~KrkJclKWDxtc55dEbSlCuVmbUUsbdn3DYd0OQxEZCKJuk458ki1dHbROqPq55G~fUCWZh0BGuUaPLMbBIWnlSUQ5AkyeM3wmUd8timyqg7GXgQB32iOTgAHWDOcG8B0f~w1VNx1ZyT7OLdK91zZj5NdF9iTJhxlurf35CoYMHMQrNmYbxSm-vJTNChgGhQMDevJokBrbBMR8q8wwcsqCWOgSUcpwC6BOVhSaWGjmg__",
+        "options": [
+            {
+              "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "The dynamic lines and vibrant colors reflect the cheetah's speed and agility, while the smooth blending of shades in the background adds depth and intensity."
+    },
+    {
+        "CategoryName": "Watercolor Painting",
+        "name": "Wings of Serenity",
+        "img": "https://media-hosting.imagekit.io//d13c2af357d64109/download%20(5).jpeg?Expires=1834496055&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=pkN7SrF~lrDchHwwaN3bIdH3VwatlAdFAej5AxhW4fGCCWGwopSTLG4TL019LvA3OC8tN0mM2prnFOhyL0l49s-XuknBvcB8sSE2vMsILtAv~reqG6lM5fwyraHfaS74dbKBa0DdBMNmRTfl8J0icsNs1xL57XMn5ls2QdzlynrAOEnPHmk1Bi0N37jKiBIQ2Lvr5kMMLPH5wA4~ufHFA0EPBAqzzzYgClS5EhQ6bLz~E5JRErUqEw5UZgaF-R8EqmYThlIGWDvTJrX-qLGEx2fZnlaTghRQXYXDnbdOICdFe6hsZnamysjH59SPVWP~2X83LD5IRuGAc3ca~WeedQ__",
+        "options": [
+            {
+               "A4": "300",
+                "A3": "400",
+                "A2": "500"
+            }
+        ],
+        "description": "Wings of Serenity is a delicate watercolor painting that captures the graceful flight of a bird in motion."
+    }
+]
