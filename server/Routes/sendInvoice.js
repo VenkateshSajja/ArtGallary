@@ -11,7 +11,7 @@ router.post("/send-invoice", async (req, res) => {
     if (!email) return res.status(400).json({ error: "Email is required" });
     if (!order || !order.length) return res.status(400).json({ error: "Order data is missing" });
 
-    // Format the order into a readable invoice
+    // Format the order into a readable invoice note
     const orderText = order.map((item) => {
       return `Name: ${item.name}, Quantity: ${item.quantity}, Size: ${item.size}, Price: ₹${item.price}`;
     }).join("\n");
@@ -49,7 +49,7 @@ router.post("/send-invoice", async (req, res) => {
 
     res.json({ success: true, message: `Invoice sent to ${email}` });
   } catch (error) {
-    console.error("Error sending invoice:", error.message);
+    console.error("Error getting while sending invoice:", error.message);
     res.status(500).json({ error: "Server Error", message: error.message });
   }
 });
