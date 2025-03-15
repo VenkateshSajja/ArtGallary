@@ -5,7 +5,7 @@ const User = require("../models/User");
 const { body, validationResult } = require("express-validator");
 const jwt = require("jsonwebtoken");
 const bycrypt = require("bcryptjs");
-const jwtSecret = "MynameisSanjuSanthoshFullStackWebDev";
+const jwtSecret = "MynameisSajjaFullStackWebDev";
 
 router.post(
   "/createuser",
@@ -63,7 +63,7 @@ router.post(
       if (!pwdCompare) {
         return res
           .status(400)
-          .json({ errors: "Try loggin in with correct credentials" });
+          .json({ errors: " Please Try to login in with correct credentials" });
       }
       const data = {
         user: {
