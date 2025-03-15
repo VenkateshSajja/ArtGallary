@@ -43,7 +43,7 @@ router.post("/myOrderData", async (req, res) => {
     console.log("Fetched Data:", myData);
 
     if (!myData) {
-      return res.status(404).json({ message: "No orders found for this email." });
+      return res.status(404).json({ message: "No orders found for this emails." });
     }
 
     res.json({ orderData: myData });
