@@ -30,7 +30,3 @@ Backend: Node.js, Express.js
 Frontend: React.js
 Database: MongoDB
 API: RESTful APIs
-
-Why We chose This Project:
- it is challenging for the majority of independent artists to come across affordable and multipurpose sites to sell their artworks. Available solutions are expensive and provide little customization. by providing a customized eCommerce solution for the art industry, this project will bridge the gap.
-We are updating the code space
