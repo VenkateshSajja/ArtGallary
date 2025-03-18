@@ -49,7 +49,7 @@ router.post("/myOrderData", async (req, res) => {
     res.json({ orderData: myData });
 
   } catch (error) {
-    console.error("Error fetching order data:", error.message);
+    console.error("Error fetching the order data:", error.message);
     res.status(500).json({ error: "Server Error", message: error.message });
   }
 });
