@@ -49,7 +49,7 @@ router.post("/send-invoice", async (req, res) => {
 
     res.json({ success: true, message: `Invoice sent to ${email}` });
   } catch (error) {
-    console.error("Error getting while sending invoice:", error.message);
+    console.error("Error getting when sending invoice:", error.message);
     res.status(500).json({ error: "Server Error", message: error.message });
   }
 });
