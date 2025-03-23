@@ -28,5 +28,5 @@ Reliability: the Users could find and explore the website with ease  because of 
 Technologies Used:
 Backend: Node.js, Express.js
 Frontend: React.js
-Database: MongoDB
+Database System: MongoDB
 API: RESTful APIs
