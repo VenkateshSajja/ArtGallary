@@ -9,7 +9,7 @@ router.post("/send-invoice", async (req, res) => {
     const { email, order, totalPrice } = req.body;
 
     if (!email) return res.status(400).json({ error: "Email is required" });
-    if (!order || !order.length) return res.status(400).json({ error: "Order data is missing" });
+    if (!order || !order.length) return res.status(400).json({ error: "Order data is missing for this cart" });
 
     // Format the order into a readable invoice date
     const orderText = order.map((item) => {
@@ -25,7 +25,7 @@ router.post("/send-invoice", async (req, res) => {
 
       Total Price: ₹${totalPrice}/-
       
-      We appreciate your business!
+      We appreciate your time with us!
     `;
 
     // Configure Nodemailer
@@ -40,7 +40,7 @@ router.post("/send-invoice", async (req, res) => {
     let mailOptions = {
       from: "Artventure",
       to: email,
-      subject: "Your Invoice from Artventure",
+      subject: "Congrts! Here is your Invoice from Artventure",
       text: emailContent,
     };
 
