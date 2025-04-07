@@ -5,7 +5,7 @@ const User = require("../models/User");
 const { body, validationResult } = require("express-validator");
 const jwt = require("jsonwebtoken");
 const bycrypt = require("bcryptjs");
-const jwtSecret = "My name is Sajja Venkatesh ";
+const jwtSecret = "My name is Sajja Venkatesh ";  //a secert token is created
 
 router.post(
   "/createuser",
