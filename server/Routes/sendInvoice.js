@@ -11,7 +11,7 @@ router.post("/send-invoice", async (req, res) => {
     if (!email) return res.status(400).json({ error: "Email is required" });
     if (!order || !order.length) return res.status(400).json({ error: "Order data is missing" });
 
-    // Format the order into a readable invoice note
+    // Format the order into a readable invoice date
     const orderText = order.map((item) => {
       return `Name: ${item.name}, Quantity: ${item.quantity}, Size: ${item.size}, Price: ₹${item.price}`;
     }).join("\n");
